@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\bin\Debug\net5.0\Rastojanje_kuca.exe
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\bin\Debug\net5.0\Rastojanje_kuca.deps.json
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\bin\Debug\net5.0\Rastojanje_kuca.runtimeconfig.json
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\bin\Debug\net5.0\Rastojanje_kuca.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\bin\Debug\net5.0\Rastojanje_kuca.dll
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\bin\Debug\net5.0\ref\Rastojanje_kuca.dll
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\bin\Debug\net5.0\Rastojanje_kuca.pdb
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\Rastojanje_kuca.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\Rastojanje_kuca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\Rastojanje_kuca.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\Rastojanje_kuca.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\Rastojanje_kuca.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\Rastojanje_kuca.dll
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\ref\Rastojanje_kuca.dll
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\Rastojanje_kuca.pdb
+C:\Users\Nikola\source\repos\Rastojanje_kuca\Rastojanje_kuca\obj\Debug\net5.0\Rastojanje_kuca.genruntimeconfig.cache
