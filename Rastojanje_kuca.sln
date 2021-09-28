@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rastojanje_kuca", "Rastojanje_kuca\Rastojanje_kuca.csproj", "{ECC3897C-B5E1-4A1A-8444-9068067C907C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC3897C-B5E1-4A1A-8444-9068067C907C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC3897C-B5E1-4A1A-8444-9068067C907C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC3897C-B5E1-4A1A-8444-9068067C907C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC3897C-B5E1-4A1A-8444-9068067C907C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8131B030-BD4E-4903-8B37-0176AF4EA5C4}
+	EndGlobalSection
+EndGlobal
